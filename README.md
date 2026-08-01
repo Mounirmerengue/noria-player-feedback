@@ -12,7 +12,7 @@ Noria Player est un lecteur IPTV multiplateforme (Xtream Codes / M3U), ciblant e
 
 ## Télécharger la dernière version bêta
 
-[DOWNLOAD_LINK]
+https://github.com/Mounirmerengue/ultimate-ota-beta/releases/tag/v9.5.1-beta.1
 
 ## Merci
 
